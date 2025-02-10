@@ -1,14 +1,34 @@
 <<<<<<< HEAD
 
-# [REPO FINDER](https://VLM-DeVoPs.github.io/repo-finder)
+     # [RepoFinder 🚀](https://VLM-DeVoPs.github.io/repo-finder)
 
-Этот проект позволяет искать репозитории на GitHub по имени пользователя.
+RepoFinder — это веб-приложение для поиска репозиториев на GitHub.
 
-## Установка
+## 📌 Функции
 
-1. Клонируйте репозиторий:
-   ```bash
-   git clone https://github.com/your-username/repo-finder.git
+✅ Поиск репозиториев по названию  
+✅ Бесконечная прокрутка (Infinite Scroll)  
+✅ Отображение информации о репозиториях
+
+## 📷 Скриншоты
+
+![Превью](https://via.placeholder.com/800x400)
+
+## 🚀 Развертывание
+
+Приложение доступно по адресу:  
+🔗 [RepoFinder на GitHub Pages](https://VLM-DeVoPs.github.io/repo-finder/)
+
+## 🛠️ Установка и запуск
+
+````sh
+git clone https://github.com/VLM-DeVoPs/repo-finder.git
+cd repo-finder
+npm install
+npm run dev
+
+🤝 Контакты
+Автор: [VLM-DeVoPs](https://github.com/VLM-DeVoPs)
 
 
 =======
@@ -37,7 +57,7 @@ export default tseslint.config({
     },
   },
 })
-```
+````
 
 - Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `tseslint.configs.strictTypeChecked`
 - Optionally add `...tseslint.configs.stylisticTypeChecked`
@@ -45,11 +65,11 @@ export default tseslint.config({
 
 ```js
 // eslint.config.js
-import react from 'eslint-plugin-react'
+import react from "eslint-plugin-react";
 
 export default tseslint.config({
   // Set the react version
-  settings: { react: { version: '18.3' } },
+  settings: { react: { version: "18.3" } },
   plugins: {
     // Add the react plugin
     react,
@@ -58,8 +78,9 @@ export default tseslint.config({
     // other rules...
     // Enable its recommended rules
     ...react.configs.recommended.rules,
-    ...react.configs['jsx-runtime'].rules,
+    ...react.configs["jsx-runtime"].rules,
   },
-})
+});
 ```
->>>>>>> e7f4195 (Add project repo finder)
+
+> > > > > > > e7f4195 (Add project repo finder)
