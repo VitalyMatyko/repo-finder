@@ -1,6 +1,15 @@
 <<<<<<< HEAD
-# repo-finder
-[REPO FINDER](https://github.com)
+
+# [REPO FINDER](https://github.com)
+
+Этот проект позволяет искать репозитории на GitHub по имени пользователя.
+
+## Установка
+
+1. Клонируйте репозиторий:
+   ```bash
+   git clone https://github.com/your-username/repo-finder.git
+
 
 =======
 # React + TypeScript + Vite
