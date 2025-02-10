@@ -1,2 +1,3 @@
 # repo-finder
-[REPO FINDER]= ()
+[Текст ссылки](https://example.com)
+
