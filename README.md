@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 
-# [REPO FINDER]([https://github.com](https://github.com/your-username/repo-finder))
+# [REPO FINDER](https://github.com/your-username/repo-finder)
 
 Этот проект позволяет искать репозитории на GitHub по имени пользователя.
 
