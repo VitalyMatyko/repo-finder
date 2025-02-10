@@ -24,7 +24,7 @@ const Home: FC<HomeProps> = ({
   }
 
   return (
-    <div className="container mx-auto p-4">
+    <div className="container mx-auto p-4 overflow-auto">
       {repos.length > 0 && (
         <InfiniteScroll
           dataLength={repos.length}
@@ -32,7 +32,7 @@ const Home: FC<HomeProps> = ({
           hasMore={repos.length < 100}
           loader={<Loader loading={loading} />}
         >
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-4">
             {repos.map((repo) => (
               <RepoCard key={repo.id} {...repo} />
             ))}
