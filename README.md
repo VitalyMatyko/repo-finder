@@ -1,2 +1,2 @@
 # repo-finder
-REPO FINDER= []
+[REPO FINDER]= ()
