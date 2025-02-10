@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 
-# [REPO FINDER](https://github.com/your-username/repo-finder)
+# [REPO FINDER](https://VLM-DeVoPs.github.io/repo-finder)
 
 Этот проект позволяет искать репозитории на GitHub по имени пользователя.
 
