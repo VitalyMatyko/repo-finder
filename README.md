@@ -5,23 +5,23 @@
 
 ## 📌 Функции
 
-✅ Поиск репозиториев по названию  
-✅ Бесконечная прокрутка (Infinite Scroll)  
-✅ Отображение информации о репозиториях
+      ✅ Поиск репозиториев по названию  
+      ✅ Бесконечная прокрутка (Infinite Scroll)  
+      ✅ Отображение информации о репозиториях
 
 ## 📷 Скриншоты
 
-![Screenshot 1](<(screenshots/Screenshot_1.png)>)
-![Screenshot 2](<(screenshots/Screenshot_2.png)>)
-![Screenshot 3](<(screenshots/Screenshot_3.png)>)
+      ![Screenshot 1](<(screenshots/Screenshot_1.png)>)
+      ![Screenshot 2](<(screenshots/Screenshot_2.png)>)
+      ![Screenshot 3](<(screenshots/Screenshot_3.png)>)
 
 ## 🚀 Развертывание
 
-Приложение доступно по адресу:  
-🔗 [RepoFinder на GitHub Pages](https://VLM-DeVoPs.github.io/repo-finder/)
+       Приложение доступно по адресу:  
+      🔗 [RepoFinder на GitHub Pages](https://VLM-DeVoPs.github.io/repo-finder/)
 
 🤝 Контакты
-Автор: [VLM-DeVoPs](https://github.com/VLM-DeVoPs)
+       Автор: [VLM-DeVoPs](https://github.com/VLM-DeVoPs)
 
 ## 🛠️ Установка и запуск
 
