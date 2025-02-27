@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # React + TypeScript + Vite
 
-[RepoFinder](https://VLM-DeVoPs.github.io/repo-finder)🚀 — это веб-приложение для поиска репозиториев на GitHub.
+[RepoFinder](https://VitalyMatyko.github.io/repo-finder)🚀 — это веб-приложение для поиска репозиториев на GitHub.
 
 ## 📌 Функции
 
@@ -18,16 +18,16 @@
 ## 🚀 Развертывание
 
        Приложение доступно по адресу:  
-      🔗 [RepoFinder на GitHub Pages](https://VLM-DeVoPs.github.io/repo-finder/)
+      🔗 [RepoFinder на GitHub Pages](https://VitalyMatyko.github.io/repo-finder/)
 
 🤝 Контакты
-       Автор: [VLM-DeVoPs](https://github.com/VLM-DeVoPs)
+       Автор: [VitalyMatyko](https://github.com/VitalyMatyko)
 
 ## 🛠️ Установка и запуск
 
 ````sh
 
-git clone https://github.com/VLM-DeVoPs/repo-finder.git
+git clone https://github.com/VitalyMatyko/repo-finder.git
 cd repo-finder
 npm install
 npm run dev
