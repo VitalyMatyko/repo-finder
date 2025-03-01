@@ -1,6 +1,8 @@
 
 
-🚀 # [RepoFinder](https://VitalyMatyko.github.io/repo-finder) — это веб-приложение для поиска репозиториев на GitHub.
+🚀 [RepoFinder](https://VitalyMatyko.github.io/repo-finder) 
+
+    RepoFinder  — это веб-приложение для поиска репозиториев на GitHub.
 
  📌 Функции
 
