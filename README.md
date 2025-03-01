@@ -22,9 +22,11 @@
       🔗 [RepoFinder на GitHub Pages](https://VitalyMatyko.github.io/repo-finder/)
 
 📌 Технологии
+
       React + TypeScript + Vite
 
 🤝 Контакты
+
        Автор: [VitalyMatyko](https://github.com/VitalyMatyko)
 
 ## 🛠️ Установка и запуск
