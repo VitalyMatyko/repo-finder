@@ -23,7 +23,7 @@
 
 📌 Технологии
 
-      React + TypeScript + Vite
+       JavaScript, TypeScript, React, Html, Sass, MongoDB, Node, Express, Vite.
 
 🤝 Контакты
 
