@@ -23,7 +23,7 @@
 
 📌 Технологии
 
-       JavaScript, TypeScript, React, Html, Sass,  Tailwind CSS, Node, Express, Docker, Vite
+       JavaScript, TypeScript, React, Html, Tailwind CSS, Node, Express, Docker, Vite
 
 🤝 Контакты
 
