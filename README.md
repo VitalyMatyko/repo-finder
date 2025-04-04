@@ -18,16 +18,17 @@
 
  🚀 Развертывание
 
-       Приложение доступно по адресу:  
-      🔗 [RepoFinder на GitHub Pages](https://VitalyMatyko.github.io/repo-finder/)
+Приложение доступно по адресу:  
+       
+🔗 [RepoFinder на GitHub Pages](https://VitalyMatyko.github.io/repo-finder/)
 
-📌 Технологии
+## 📌 Технологии
 
        JavaScript, TypeScript, React, Html, Tailwind CSS, Node, Express, Docker, Vite
 
-🤝 Контакты
+## 🤝 Контакты
 
-       Автор: [VitalyMatyko](https://github.com/VitalyMatyko)
+Автор: [VitalyMatyko](https://github.com/VitalyMatyko)
 
 ## 🛠️ Установка и запуск
 
