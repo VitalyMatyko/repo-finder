@@ -1,42 +1,40 @@
 
+## **REPO FINDER**
 
-🚀 [RepoFinder](https://VitalyMatyko.github.io/repo-finder) 
+ [RepoFinder](https://VitalyMatyko.github.io/repo-finder) 
 
-    RepoFinder  — это веб-приложение для поиска репозиториев на GitHub.
+    RepoFinder  — this is a web application for searching repositories on GitHub.
 
- 📌 Функции
+ ## 📌 Functions:
 
-      ✅ Поиск репозиториев по названию  
-      ✅ Бесконечная прокрутка (Infinite Scroll)  
-      ✅ Отображение информации о репозиториях
+      ✅ Search repositories by name 
+      ✅ Infinite Scroll  
+      ✅ Displaying information about repositories
 
- 📷 Скриншоты
+ ## 📷 Скриншоты
 
- [Screenshot1](https://github.com/VitalyMatyko/repo-finder/blob/main/screenshots/Screenshot_2.png)
- [Screenshot2](https://github.com/VitalyMatyko/repo-finder/blob/main/screenshots/Screenshot_1.png)
+ [Screenshot1](https://github.com/VitalyMatyko/repo-finder/blob/main/screenshots/Screenshot_2.png)<br>
+ [Screenshot2](https://github.com/VitalyMatyko/repo-finder/blob/main/screenshots/Screenshot_1.png)<br>
  [Screenshot3](https://github.com/VitalyMatyko/repo-finder/blob/main/screenshots/Screenshot_3.png)
 
- 🚀 Развертывание
+ 🚀 Deployment
 
-Приложение доступно по адресу:  
+    The application is available at: 
        
 🔗 [RepoFinder на GitHub Pages](https://VitalyMatyko.github.io/repo-finder/)
 
-## 📌 Технологии
+## 📌 Technologies
 
        JavaScript, TypeScript, React, Html, Tailwind CSS, Node, Express, Docker, Vite
 
-## 🤝 Контакты
-
-Автор: [VitalyMatyko](https://github.com/VitalyMatyko)
-
-## 🛠️ Установка и запуск
+## 🛠️ Installation and launch
 
       git clone https://github.com/VitalyMatyko/repo-finder.git
       cd repo-finder
       npm install
       npm run dev
 
+ 🤝 ## Автор: [VitalyMatyko](https://github.com/VitalyMatyko)
 
 
 
