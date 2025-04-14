@@ -1,9 +1,7 @@
 
 ## **REPO FINDER**
 
- [RepoFinder](https://VitalyMatyko.github.io/repo-finder) 
-
-    RepoFinder  — this is a web application for searching repositories on GitHub.
+   [RepoFinder](https://VitalyMatyko.github.io/repo-finder) - this is a web application for searching repositories on GitHub.
 
  ## 📌 Functions:
 
@@ -13,15 +11,15 @@
 
  ## 📷 Скриншоты
 
- [Screenshot1](https://github.com/VitalyMatyko/repo-finder/blob/main/screenshots/Screenshot_2.png)<br>
- [Screenshot2](https://github.com/VitalyMatyko/repo-finder/blob/main/screenshots/Screenshot_1.png)<br>
- [Screenshot3](https://github.com/VitalyMatyko/repo-finder/blob/main/screenshots/Screenshot_3.png)
+   [Screenshot1](https://github.com/VitalyMatyko/repo-finder/blob/main/screenshots/Screenshot_2.png)<br>
+   [Screenshot2](https://github.com/VitalyMatyko/repo-finder/blob/main/screenshots/Screenshot_1.png)<br>
+   [Screenshot3](https://github.com/VitalyMatyko/repo-finder/blob/main/screenshots/Screenshot_3.png)
 
- 🚀 Deployment
+ ## 🚀 Deployment
 
     The application is available at: 
        
-🔗 [RepoFinder на GitHub Pages](https://VitalyMatyko.github.io/repo-finder/)
+   🔗 [RepoFinder на GitHub Pages](https://VitalyMatyko.github.io/repo-finder/)
 
 ## 📌 Technologies
 
@@ -34,7 +32,7 @@
       npm install
       npm run dev
 
- 🤝 ## Автор: [VitalyMatyko](https://github.com/VitalyMatyko)
+   🤝 Автор: [VitalyMatyko](https://github.com/VitalyMatyko)
 
 
 
